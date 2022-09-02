@@ -1,5 +1,5 @@
 {
-    "name": "Song-Bot",
+    "name": "Song_Bot",
     "description": "A Modular telegram song bot.",
     "repository": "https://heroku.com/deploy?template=https://github.com/albin575/song_bot/tree/main",
     "keywords": [
